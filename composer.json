@@ -7,5 +7,7 @@
             "email": "zhangb14@mingyuanyun.com"
         }
     ],
-    "require": {}
+    "require": {
+        "mingyuanyun/yii2-ilog": "^1.3"
+    }
 }
